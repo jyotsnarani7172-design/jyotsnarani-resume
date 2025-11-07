@@ -5,8 +5,7 @@
 
 📄 My Resume
 You can view or download my professional resume here 👇
-
-➡️ [Download My Resume](https://github.com/jyotsnarani7172-design/jyotsnarani-resume/raw/main/Jyotsnarani_Mohapatra_Resume.docx)
+🔗 My GitHub: [jyotsnarani7172-design](https://github.com/jyotsnarani7172-design)
 
 🧠 Technical Skills
 Programming Languages: Python, Java
