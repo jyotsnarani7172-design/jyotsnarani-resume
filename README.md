@@ -5,12 +5,10 @@
 📧 **Email:** jyotsnarani7172@gmail.com  
 
 ---
-
-## 📄 My Resumehttps://github.com/jyotsnarani7172-design/jyotsnarani-resume/blob/main/README.md
+## 📄 My Resume
 You can view or download my professional resume here 👇  
 
-➡️ [Download My Resume](Jyotsnarani_Mohapatra_Resume.docx)
-
+➡️ [Download My Resume](https://github.com/jyotsnarani7172-design/jyotsnarani-resume/blob/main/Jyotsnarani)
 ---
 
 ## 🧠 Technical Skills
